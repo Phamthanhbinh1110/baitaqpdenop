@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class slide81 {
+public class Slide81 {
     public static void main(String[] args) throws Exception {
         Scanner scan = new Scanner(System.in);
         int row, column, max = 0;

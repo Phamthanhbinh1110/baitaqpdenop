@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class slide75 {
+public class Slide75 {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
         int row, column, sum = 0;
